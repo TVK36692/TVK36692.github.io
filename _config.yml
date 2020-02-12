@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: "My First GitHub"
+title: My First GitHub
 
 # Short description of your site
-description: A site to start using GitHub on a regular bases.
+description: A site to start using GitHub on a regular basis.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
