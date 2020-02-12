@@ -27,6 +27,81 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 
+<div class="pretty-text">
+
+<h1>{{ page.title }}</h1>
+  
+{{ content }}
+  
+</div>
+
+
+
+  
+  
+
+
+<style>
+
+.pretty-text {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: justify;
+}
+
+.pretty-text p {
+  line-height: 1.8;
+  padding-bottom: 80px;
+  }
+  
+.pretty-text h1 {
+  color: darkred;
+  font-size: 40px;
+}
+
+.pretty-text h2 {
+  color: darkred;
+  font-size: 30px;
+  margin-top: 60px;
+}
+
+.pretty-text h3 {
+  color: darkred;
+}
+
+.pretty-text a {
+  color: darkred;
+}
+  
+.pretty-text img {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 5px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pretty-text img:hover {
+  box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
+}
+
+pre{
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #eee;
+  width: 750px!ie7;
+  padding-bottom: 20px!ie7;
+}
+  
+</style>
+
 ### 2. Rename the repository to `yourusername.github.io`
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
