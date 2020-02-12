@@ -75,14 +75,24 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
      color: blue }
 
 .gs-section-02 p {
-     font-size: 30px;
+     font-size: 20px;
 }
 
 .gs-section-03 h3 { 
      color: green }
+    
+ 
+.gs-section-03 h2 { 
+     color: green }
+     
+.gs-section-03 h1 { 
+     color: green }
+     
+.gs-section-03 b3 { 
+     color: green }
 
 .gs-section-03 p {
-     font-size: 30px;
+     font-size: 10px;
 }
 
 </style>
