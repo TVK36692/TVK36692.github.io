@@ -71,17 +71,17 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
      font-size: 30px;
 }
 
-.gs-section-01 h3 { 
+.gs-section-02 h3 { 
      color: blue }
 
-.gs-section-01 p {
+.gs-section-02 p {
      font-size: 30px;
 }
 
-.gs-section-01 h3 { 
+.gs-section-03 h3 { 
      color: green }
 
-.gs-section-01 p {
+.gs-section-03 p {
      font-size: 30px;
 }
 
