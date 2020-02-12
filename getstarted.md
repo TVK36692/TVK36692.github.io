@@ -37,7 +37,7 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 
 <div class="gs-section-02">
 
-### 2. Rename the repository to `yourusername.github.io`
+<h1>### 2. Rename the repository to `yourusername.github.io` </h1>
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
@@ -47,7 +47,7 @@ This will create a GitHub User page ready with the **Beautiful Jekyll** template
 
 <div class="gs-section-03">
 
-### 3. Customize settings
+<h1>### 3. Customize settings </h1>
 
 Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
 
@@ -64,21 +64,21 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <style>
 
-.gs-section-01 h3 { 
+.gs-section-01 h1 { 
      color: red }
 
 .gs-section-01 p {
      font-size: 30px;
 }
 
-.gs-section-02 h3 { 
+.gs-section-02 h1 { 
      color: blue }
 
 .gs-section-02 p {
      font-size: 20px;
 }
 
-.gs-section-03 h3 { 
+.gs-section-03 h1 { 
      color: green }
     
  
