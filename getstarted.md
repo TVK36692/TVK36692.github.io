@@ -58,7 +58,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <style>
 
-.pretty-text {
+.gs-section-01 {
   margin-top: 100px;
   margin-bottom: 100px;
   padding-left: 30px;
@@ -66,31 +66,31 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   text-align: justify;
 }
 
-.pretty-text p {
+.gs-section-01 p {
   line-height: 1.8;
   padding-bottom: 80px;
   }
   
-.pretty-text h1 {
+.gs-section-01 h1 {
   color: darkred;
   font-size: 40px;
 }
 
-.pretty-text h2 {
+.gs-section-01 h2 {
   color: darkred;
   font-size: 30px;
   margin-top: 60px;
 }
 
-.pretty-text h3 {
+.gs-section-01 h3 {
   color: darkred;
 }
 
-.pretty-text a {
+.gs-section-01 a {
   color: darkred;
 }
   
-.pretty-text img {
+.gs-section-01 img {
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 5px;
@@ -102,7 +102,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.pretty-text img:hover {
+.gs-section-01 img:hover {
   box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
 }
 
