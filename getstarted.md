@@ -69,6 +69,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 .gs-section-01 p {
      font-size: 30px;
+     color:red;
 }
 
 .gs-section-02 h1 { 
@@ -88,7 +89,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 .gs-section-03 h1 { 
      color: green }
      
-.gs-section-03 b3 { 
+.gs-section-03 b { 
      color: green }
 
 .gs-section-03 p {
