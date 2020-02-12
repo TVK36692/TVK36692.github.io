@@ -58,61 +58,11 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <style>
 
-.gs-section-01 {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  padding-left: 30px;
-  padding-right: 30px;
-  text-align: justify;
-}
+.gs-section-01 h3 { 
+     color: red }
 
 .gs-section-01 p {
-  line-height: 1.8;
-  padding-bottom: 80px;
-  }
-  
-.gs-section-01 h1 {
-  color: darkred;
-  font-size: 40px;
+     font-size: 30px;
 }
 
-.gs-section-01 h2 {
-  color: darkred;
-  font-size: 30px;
-  margin-top: 60px;
-}
-
-.gs-section-01 h3 {
-  color: darkred;
-}
-
-.gs-section-01 a {
-  color: darkred;
-}
-  
-.gs-section-01 img {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 5px;
-  width: 400px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.gs-section-01 img:hover {
-  box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
-}
-
-pre{
-  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-  margin-bottom: 10px;
-  padding: 5px;
-  background-color: #eee;
-  width: 750px!ie7;
-  padding-bottom: 20px!ie7;
-}
-  
 </style>
