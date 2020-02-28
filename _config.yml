@@ -26,6 +26,7 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
     - Fantasy Football Analytics: "FFA"
+    - Fantasy Football R: "Code-Through---FFAnalytics"
   Author's home: "http://deanattali.com"
   Table Demo: "table-demo"
 
